@@ -35,6 +35,10 @@ npm start
 Then open [`localhost:8000`](http://localhost:8000) in a browser.
 
 
+## TODO
+Insert icon on the left/right of Menu item 
+
+
 ## Installation
 
 The easiest way to use React-Select is to install it from NPM and include it in your own React build process (using [Browserify](http://browserify.org), etc).
